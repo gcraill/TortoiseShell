@@ -295,17 +295,17 @@ footer {
 		flex-direction: column;
 		justify-content: flex-start;
 		align-items: center;
-		margin-bottom: 5rem;
+		margin-bottom: 0;
 	}
 	section.DetailBlock > .DetailBox:not(:last-child) {
 		margin-right: 0;
-		margin-bottom: 4rem;	
 	}
 	.DetailBox {
 		flex-direction: column;
 		justify-content: flex-start;
 		align-items: flex-start;
 		width: 100%;
+		margin-bottom: 4rem;	
 	}
 	.Topic {
 		width: 100%;
