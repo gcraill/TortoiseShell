@@ -299,6 +299,7 @@ footer {
 	}
 	section.DetailBlock > .DetailBox:not(:last-child) {
 		margin-right: 0;
+		margin-bottom: 4rem;	
 	}
 	.DetailBox {
 		flex-direction: column;
@@ -314,7 +315,6 @@ footer {
 	}
 	.Detail {
 		margin-top: 1rem;	
-		margin-bottom: 4rem;	
 	}
 	.FooterBlock {
 		justify-content: center;
